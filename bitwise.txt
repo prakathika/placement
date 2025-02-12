@@ -1,0 +1,17 @@
+class Main
+{
+   public static void main(String args[])
+   {
+     int a=492;
+     int b=333;
+      System.out.println("a & b ="+(a&b));
+      System.out.println("a | b ="+(a|b));
+      System.out.println("a ^ b ="+(a^b));
+   }
+    
+         
+    }
+    
+a & b =332
+a | b =493
+a ^ b =161
